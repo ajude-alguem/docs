@@ -22,13 +22,20 @@ Abaixo os repositórios de controle de versão dos projetos do ecossistema Ajude
 ## Documentações
 Abaixo links de referência as documentações do ecossistema:
 
+### ADR - Architecture Decision Records
+- [ADR 001 - Linguagem de Backend](adr/adr-001-linguagem-backend.md)
+- [ADR 002 - Linguagem e Framework de Frontend](adr/adr-002-linguagem-framework-frontend.md)
+- [ADR 003 - Infraestrutura Cloud](adr/adr-003-arquitetura-cloud.md)
+- [ADR 004 - Micro-serviços](adr/adr-004-micro-servicos.md)
+- [ADR 005 - Banco de dados](adr/adr-005-banco-de-dados.md)
+
 ### C4 Model
-![C1 - Context](https://github.com/ajude-alguem/docs/blob/main/c4-model/c1-context.png?raw=true)
-![C2 - Containers](https://github.com/ajude-alguem/docs/blob/main/c4-model/c2-containers.png?raw=true)
-![C3 - Components](https://github.com/ajude-alguem/docs/blob/main/c4-model/c3-components.png?raw=true)
+![C1 - Context](c4-model/c1-context.png)
+![C2 - Containers](c4-model/c2-containers.png)
+![C3 - Components](c4-model/c3-components.png)
 
 ### Dicionário de dados
-![Dicionário de dados](https://github.com/ajude-alguem/docs/blob/main/data-dict.png?raw=true)
+![Dicionário de dados](data-dict.png)
 
 ### Diagrama de casos de uso
-![Diagrama de casos de uso](https://github.com/ajude-alguem/docs/blob/main/usecase-diagram.png?raw=true)
+![Diagrama de casos de uso](usecase-diagram.png)
